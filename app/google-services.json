@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "540138780655",
+    "project_id": "personal-expense-tracker-c3c5b",
+    "storage_bucket": "personal-expense-tracker-c3c5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540138780655:android:b6c509bb79b641d714a81a",
+        "android_client_info": {
+          "package_name": "com.example.personalexpensetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540138780655-n3gvg5s56ogpdic9d60uthh2mptgp14o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.personalexpensetracker",
+            "certificate_hash": "7bd722211f3ee1c03ba4b34f206e35d0ff5586e4"
+          }
+        },
+        {
+          "client_id": "540138780655-gtgi8vtehgdia4vt9acpegjl822iojrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMQVj0BAUeQA-6qSl8G0WrL_MSkOel_4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540138780655-gtgi8vtehgdia4vt9acpegjl822iojrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
