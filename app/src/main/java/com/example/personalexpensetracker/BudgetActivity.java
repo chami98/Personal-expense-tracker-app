@@ -49,6 +49,10 @@ public class BudgetActivity extends AppCompatActivity {
     private FirebaseAuth mAuth;
     private ProgressDialog loader;
 
+    private String post_key = "";
+    private String item = "";
+    private int amount =0;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
