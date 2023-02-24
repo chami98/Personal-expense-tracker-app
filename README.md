@@ -50,4 +50,22 @@ Contributions are always welcome! If you would like to contribute to the Weather
 
 Thank you for checking out the Personal Expense Tracker Android App! If you have any questions or feedback, please feel free to reach out. Happy coding! 🎉
 
+---
+
+## Screenshots 📸
+
+![Screenshot_20230224-2151292_50](https://user-images.githubusercontent.com/68820649/221242163-dabdcf67-6e7f-486c-a188-727884d93241.png)
+![Screenshot_20230224-2151212_50](https://user-images.githubusercontent.com/68820649/221242171-be6be49a-9ba9-4de4-bcff-a75534e05419.png)
+
+![Screenshot_20230224-2154142_50](https://user-images.githubusercontent.com/68820649/221242152-aa775ad5-18ce-453f-b57e-d90fdd7f2aa6.png)
+![Screenshot_20230224-2154532_50](https://user-images.githubusercontent.com/68820649/221242142-4ffbe4df-35f7-4228-80d6-f46b2fe90adc.png)
+
+![Screenshot_20230224-2153062_50](https://user-images.githubusercontent.com/68820649/221242153-f680bbf6-f0bf-4778-963b-6e6047f76943.png)
+![Screenshot_20230224-2152582_50](https://user-images.githubusercontent.com/68820649/221242157-1ce5b975-61b8-4e4b-b55c-3870796c6221.png)
+
+![Screenshot_20230224-2154362_50](https://user-images.githubusercontent.com/68820649/221242145-bcc05761-64e4-4e96-8693-9bc694dc37c6.png)
+![Screenshot_20230224-2154282_50](https://user-images.githubusercontent.com/68820649/221242147-901369a7-1f9e-493a-88ec-d61c829bae93.png)
+
+![Screenshot_20230224-2155013_50](https://user-images.githubusercontent.com/68820649/221242175-0140d76f-daa5-4bdd-b432-72845e1829c9.png)
+
 
