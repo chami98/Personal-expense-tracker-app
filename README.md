@@ -35,17 +35,6 @@ To use the Personal Expense Tracker Android App, follow these steps:
 2. Add expenses and categorize them.
 3. Monitor your spending habits and adjust your budget accordingly.
 
-
-## 🤝 Contributing
-
-Contributions are always welcome! If you would like to contribute to the Weather Application, please follow these steps:
-
-1. Fork this repository.
-2. Create a new branch for your changes.
-3. Make your changes and commit them to your branch.
-4. Push your changes to your fork.
-5. Create a pull request with a description of your changes.
-
 ---
 
 Thank you for checking out the Personal Expense Tracker Android App! If you have any questions or feedback, please feel free to reach out. Happy coding! 🎉
